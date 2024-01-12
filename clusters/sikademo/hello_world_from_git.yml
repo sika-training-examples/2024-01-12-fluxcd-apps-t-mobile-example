@@ -22,4 +22,4 @@ spec:
     host: flux-hello-world-from-git.t-mobile.sikademo.com
     TEXT: Hello T-Mobile from FluxCD from Git
     image: sikalabs/hello-world-server:t-mobile
-    replicas: 10
+    replicas: 2

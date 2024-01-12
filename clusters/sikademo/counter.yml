@@ -14,7 +14,7 @@ spec:
     spec:
       sourceRef:
         kind: HelmRepository
-        name: sikalabs
+        name: sikademo
         namespace: flux-system
       chart: counter
       interval: 1m

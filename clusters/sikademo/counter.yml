@@ -17,6 +17,7 @@ spec:
         name: sikademo
         namespace: flux-system
       chart: counter
+      version: "2023.11.28"
       interval: 1m
   values:
     host: flux-counter.t-mobile.sikademo.com
